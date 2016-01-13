@@ -20,5 +20,7 @@ for i in file_open:
 
 print value
 print "Done"
+print "Bye"
+
 
 			
