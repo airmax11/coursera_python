@@ -1,0 +1,18 @@
+
+1. git int initialise your directory
+echo "# test" >> README.md
+2. pico .gitignore  -- editor
+To create ignore file: 1. touch .gitignore
+
+
+Add items to local directory:
+git add --all
+git status
+
+Commit:
+git commit -m "Initial commit - comment"
+
+git remote add origin https://github.com/airmax11/coursera_python
+
+git push -u origin master
+

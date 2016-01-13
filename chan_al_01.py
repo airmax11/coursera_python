@@ -35,3 +35,5 @@ letterchanges(enter_val)
 test = ''.join(temp)
 test1= ''.join(non_val)
 print "Your new word is : .....",  test + test1
+print "Done"
+print "Bye"
